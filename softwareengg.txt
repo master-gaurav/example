@@ -1,0 +1,25 @@
+1)software engineering techniques & experience which helps you in manufacturing a software.
+
+2)
+data dictionary use complex terms that are used in design..
+
+3)
+context diagram is 0 level dfd..
+
+4)
+error:-
+problem in code may be executed or may not..
+
+failure:- execution will be terminated..
+
+
+5)
+sequence diagram :- explain sequence of phases
+
+6)
+high cohesion and low coupling helps in
+reusability of code.//
+
+7)
+software crisis:-
+with the time cost of hardware is increasing and cost of software is decreasing.
